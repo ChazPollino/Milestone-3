@@ -1,0 +1,11 @@
+1   /Cheese         /250 ea         /100$    
+2   /Beef           /250lbs         /250$  
+3   /Shells         /250 ea         /50$  
+4   /Tortilla       /250 ea         /50$  
+5   /Sour Cream     /250 lbs        /75$  
+6   /Tomatoes       /250 lbs        /50$  
+7   /Onions         /250 lbs        /35$  
+8   /Salsa          /250 lbs        /50$  
+9   /Steak          /250 lbs        /150$  
+10  /Chicken        /250 lbs        /125$   
+
